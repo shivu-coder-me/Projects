@@ -146,4 +146,3 @@ int main() {
     cout << "\nThanks for playing!\n";
 
     return 0;
-}
